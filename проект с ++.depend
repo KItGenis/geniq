@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1708947997 source:c:\users\sch1561-it-032\desktop\Рыжков Влад\проект с ++\function.cpp
+	<iostream>
+	"easy.h"
+
+1708947978 c:\users\sch1561-it-032\desktop\Рыжков Влад\проект с ++\easy.h
+
+1708948002 source:c:\users\sch1561-it-032\desktop\Рыжков Влад\проект с ++\main.cpp
+	<iostream>
+	"easy.h"
+
